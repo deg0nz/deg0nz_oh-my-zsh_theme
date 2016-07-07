@@ -16,7 +16,7 @@ Changes in **battery.py** are:
 
 As in the battery.py from sjl, the colors of the dots change from green to yellow to red with draining battery and it reacts to git repositories.
 
-I use this prompt with ~~[iTerm2](https://www.iterm2.com)~~ Terminal.app and the color theme is [SMYCK](http://color.smyck.org) by hukl.
+I use this prompt with ~~[iTerm2](https://www.iterm2.com)~~ Terminal.app (in OSX >=10.11) and the color theme is [SMYCK](http://color.smyck.org) by hukl.
 The font in the screenshot is [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) by Adobe in regular at 14pt.
 
 Feel free to customize, share and use it as you want!
