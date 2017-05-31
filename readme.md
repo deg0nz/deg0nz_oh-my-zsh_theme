@@ -1,6 +1,6 @@
 ## My oh-my-zsh prompt
 
-####Screenshot:
+#### Screenshot:
 
 ![Screenshot of my zsh prompt](./img/deg0nz_oh-my-zsh_prompt.png)
 
