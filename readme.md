@@ -1,5 +1,7 @@
 ## My oh-my-zsh prompt
 
+### This one is archived now. I have switched to [Starship](https://starship.rs/), which can do all the things here but way more and nicer.
+
 #### Screenshot:
 
 ![Screenshot of my zsh prompt](./img/deg0nz_oh-my-zsh_prompt.png)
